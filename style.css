@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Roboto&display=swap');
 
-h1, 
-p, 
+h1,
+p,
 a {
   color: bisque;
 }
@@ -13,7 +13,7 @@ body {
 }
 
 p {
-  font-family: "Lato";
+  font-family: 'Courier New', Courier, monospace;
 }
 
 h1 {
