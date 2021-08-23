@@ -7,7 +7,6 @@ a {
 }
 
 body {
-  font-family: 'Lato';
   text-align: center;
   background-color: rgb(14, 13, 13);
 }
@@ -34,14 +33,14 @@ img {
   width: 50%;
 }
 
-a:hover {
-  color: blanchedalmond;
-  text-decoration: underline;
-}
-
 a {
   color: blue;
   font-size: 20px;
+}
+
+a:hover {
+  color: blanchedalmond;
+  text-decoration: underline;
 }
 
 .img-caption {
